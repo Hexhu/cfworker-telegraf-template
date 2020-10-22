@@ -108,3 +108,6 @@ yarn.lock
 
 # CloudFlare wrangler build output
 worker/
+
+# helper script
+wrangler.sh
