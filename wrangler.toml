@@ -1,0 +1,4 @@
+name = "telegram-bot-with-telegraf-on-cfworker"
+type = "webpack"
+webpack_config = "webpack.config.js"
+workers_dev = true

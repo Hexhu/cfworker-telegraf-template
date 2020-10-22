@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@cfworker/web": "^1.5.0",
+    "@cloudflare/wrangler": "^1.11.0",
     "cfworker-middware-telegraf": "^1.0.0",
     "telegraf": "^3.38.0"
   },
